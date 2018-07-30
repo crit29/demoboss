@@ -1,0 +1,15 @@
+.dataTables_length{float: right;width: 22%}
+.tblistDv_filter{float: left;width: 76%;}
+.dataTables_info{float: left;}
+.dataTables_paginate {float: right}
+.paginate_button{padding: 10px; border: 1px solid green;margin-left: 3px;cursor: pointer;}
+.paginate_button:hover{background-color: green; color: white;font-weight: bold}
+.modal table th,.modal table td{border: 0px !important}
+input[type=search]{
+	padding: 3px;border-radius: 5px;
+
+}
+label select{
+	padding: 5px 8px;
+	cursor: pointer;
+}

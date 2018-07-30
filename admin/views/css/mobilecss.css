@@ -1,0 +1,48 @@
+html {
+	height: 100%;
+	font-family: serif;
+}
+
+body {
+	height: 100%;
+}
+
+header {
+	height: 50px;
+	background: #84e7ff;
+
+}
+
+header a {
+	float: right;
+    margin: 15px 15px;
+}
+
+.logo {
+	height: 40px;
+	margin: 5px;
+}
+
+
+.home-container {
+	font-size: 18px;
+	height: 90%;
+	display: flex;
+	flex-direction: column;
+	padding: 10px;
+}
+
+.home-item {
+	flex: 1;
+	padding: 8px 25px;
+}
+
+.home-item button {
+	height: 100%;
+	width: 100%;
+	font-size: 18px;
+	color: white;
+	border-radius: 20px;
+	letter-spacing: 1px;
+	font-weight: 400;
+}
